@@ -1,4 +1,4 @@
-## Hi there, Pratama here👋
+## Hi there, Pratam here👋
 - 🏫 High school student have intrest to computer science
 - 🌱 I’m currently learning IoT, Data science, Meachine Learning
 
